@@ -35,7 +35,7 @@
     "get-random-values": "^3.0.0",
     "handlebars": "^4.7.8",
     "mongodb": "^6.9.0",
-    "node": ">=22",
+    "node": ">=23",
     "node-pre-gyp": "^0.17.0",
     "ws": "^8.17.1"
   }
